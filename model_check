@@ -1,1 +1,12 @@
+交叉验证集判断模型是否适合（）
+高偏差（欠拟合）：
+jtrain    -   high  
+j cv      -   high              
 
+高方差（过拟合）：
+jtrain    -   low  
+j cv      -   high      
+
+刚刚好：
+jtrain    -   low 
+j cv      -   low     
